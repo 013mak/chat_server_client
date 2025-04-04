@@ -3,7 +3,7 @@ package com.mak;
 import java.io.*;
 import java.net.Socket;
 import java.util.ArrayList;
-
+// лекция
 public class ClientManager implements Runnable{
     private Socket socket;
     private BufferedReader bufferedReader;

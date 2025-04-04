@@ -3,7 +3,7 @@ package com.mak;
 import java.io.*;
 import java.net.Socket;
 import java.util.Scanner;
-
+//лекция
 public class Client {
     private Socket socket;
     private BufferedReader bufferedReader;
